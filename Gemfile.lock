@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    i18n-active_record (0.0.4)
+      i18n (>= 0.5.0)
+
+GEM
+  remote: https://artifactory.diymaxeda.org/artifactory/api/gems/rubygems-org-remote/
+  specs:
+    i18n (0.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  i18n-active_record!
+
+BUNDLED WITH
+   1.11.2
